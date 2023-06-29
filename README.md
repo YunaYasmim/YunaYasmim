@@ -18,12 +18,12 @@ yasmim.hamma@escola.pr.gov.br
 
 ### Jogos feito na Alura (ps5.js) 😺 🎮
 
-https://editor.p5js.org/yasmim.hamma/sketches/r6d7MO8pK
+https://editor.p5js.org/yasmim.hamma/sketches/r6d7MO8pK (Barbearia Alura)
 
-https://editor.p5js.org/yasmim.hamma/sketches/_PSxQNE5R
+https://editor.p5js.org/yasmim.hamma/sketches/_PSxQNE5R ( skech)
 
-https://editor.p5js.org/yasmim.hamma/sketches/yeKkoDP8Y
+https://editor.p5js.org/yasmim.hamma/sketches/yeKkoDP8Y ( ping-pong)
 
-https://editor.p5js.org/yasmim.hamma/sketches/e_62owGvz
+https://editor.p5js.org/yasmim.hamma/sketches/e_62owGvz ( letras "revengers")
 
-https://editor.p5js.org/yasmim.hamma/sketches/ydIK-R5F5
+https://editor.p5js.org/yasmim.hamma/sketches/ydIK-R5F5 ( bola de cor)
