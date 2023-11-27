@@ -18,7 +18,7 @@ yasmim.hamma@escola.pr.gov.br
 
 ### Jogos feito na Alura (ps5.js) 😺 🎮
 
-https://github.com/YunaYasmim/BarbeariaAlura.git (Barbearia Alura)
+https://github.com/YunaYasmim/Barbearia-Alura-VSC.git (Barbearia Alura)
 
 https://editor.p5js.org/yasmim.hamma/sketches/_PSxQNE5R ( skech)
 
